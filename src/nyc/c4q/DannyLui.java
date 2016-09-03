@@ -18,6 +18,6 @@ public class DannyLui implements C4QStudent {
 
     @Override
     public String yourFavoriteColor() {
-        return "Orange";
+        return "No one will know";
     }
 }
